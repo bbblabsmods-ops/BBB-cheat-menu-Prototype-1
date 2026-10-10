@@ -1,3 +1,4 @@
+
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
@@ -23,4 +24,5 @@ android {
 dependencies {
     implementation("io.github.muntashirakon:libadb-android:3.1.1")
     implementation("org.conscrypt:conscrypt-android:2.5.3")
-    implementation("com.github.MuntashirAkon:sun-security-android:1.1"
+    implementation("com.github.MuntashirAkon:sun-security-android:1.1")
+}
